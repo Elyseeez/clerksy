@@ -16,9 +16,6 @@ function App() {
       <Promo/>
       <About/>
       <Resourse/>
-      
-      
-      
       <Form/>
       <Footer/>
     </div>
